@@ -6,7 +6,7 @@ Writes the entry line to $MAKEFUN_OUTPUT_DIR/entry.txt.
 import os
 import sys
 
-LINE = "fix: it works on my machine, and as of 5pm my machine is the only one that matters — deploying to production, see you all on Monday"
+LINE = "fix: it works on my machine, and as of 5pm my machine is the only one that matters — deploying to production, good luck on Monday"
 MAX_CHARS = 159
 
 
